@@ -1,3 +1,5 @@
+<img src="https://i.imgur.com/8MupZHY.gif" width="400" />
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is youssef haddar
 ======================================================================================================================================
 
@@ -31,6 +33,7 @@ src="https://img.shields.io/github/followers/yhaddar?logo=github&style=for-the-b
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
 </p>
  <h2> Certificates :</h2>
+ <p><img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="380" align="right" />
  <h3>from sololearn :</h3>
  <p align="left">
 <a href="https://www.sololearn.com/Certificate/1014-23044057/jpg/" target="_blank" rel="noreferrer">html /</a>
@@ -53,7 +56,7 @@ src="https://img.shields.io/github/followers/yhaddar?logo=github&style=for-the-b
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/yhaddar"><img src="https://github-readme-stats.vercel.app/api?username=yhaddar&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="yhaddar's GitHub stats" /></a>
+<a href="http://www.github.com/yhaddar"><img src="https://github-readme-stats.vercel.app/api?username=yhaddar&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="yhaddar's GitHub stats" align="right" /></a>
 
 <a href="http://www.github.com/yhaddar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yhaddar&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
