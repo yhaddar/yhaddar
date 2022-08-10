@@ -37,8 +37,9 @@ src="https://img.shields.io/github/followers/yhaddar?logo=github&style=for-the-b
  <p align="left">
 <a href="https://www.sololearn.com/Certificate/1014-23044057/jpg/" target="_blank" rel="noreferrer">html /</a>
 <a href="https://www.sololearn.com/Certificate/1023-23044057/jpg/" target="_blank" rel="noreferrer">css /</a>
-<a href="" target="_blank" rel="noreferrer">Javascript</a>
+<a href="" target="_blank" rel="noreferrer">Javascript /</a>
 <a href="https://www.sololearn.com/Certificate/1082-23044057/jpg/" target="_blank" rel="noreferrer">jquery /</a>
+<a href="https://www.sololearn.com/Certificate/CT-ZXBE6EKN/pdf" target="_blank" rel="noreferrer">react + redux /</a>
 <a href="" target="_blank" rel="noreferrer">python</a>
 </p>
 <h3>from academy shiyar :</h3>
