@@ -8,7 +8,7 @@ I specialize in web programming front-end & back-end and application programming
 
 * 🌍  I'm based in Salé
 * ✉️  You can contact me at [youssefhaddar9@gmail.com](mailto:youssefhaddar9@gmail.com)
-* 🧠  I'm learning cyber security
+* 🧠  I'm full stack Développeur 
 
 <a href="https://www.github.com/yhaddar" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/yhaddar?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
