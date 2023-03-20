@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 -----------------------------------------------------------------------------------------------------------------
 
 * 🌍  I'm based in Salé
-* * 🧠  I'm full stack Développeur 
+* 🧠  I'm full stack Développeur 
 * ✉️  You can contact me at [youssefhaddar9@gmail.com](mailto:youssefhaddar9@gmail.com)
 
 <a href="https://www.github.com/yhaddar" target="_blank" rel="noreferrer"><img
