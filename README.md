@@ -1,12 +1,3 @@
-<style>
-    @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
-
-    h1{
-        font-family: "Roboto Mono", monospace;
-
-    }
-</style>
-
 
 <h1 align="center">Hi 👋, I'm HADDAR YOUSSEF</h1>
 <h3 align="center">Web, mobile and computer applications programmer</h3>
