@@ -3,9 +3,6 @@
 <!-- Animated Constellation Banner -->
 <img width="100%" src="https://raw.githubusercontent.com/yhaddar/yhaddar/main/banner.svg" alt="HADDAR Youssef Banner" />
 
-<!-- Animated Skills Text -->
-<img width="100%" src="https://raw.githubusercontent.com/yhaddar/yhaddar/main/animated-text.svg" alt="Skills" />
-
 <!-- Typing Animation -->
 <a href="https://yhaddar.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Spring+Boot+%26+Flutter+Developer+%F0%9F%9A%80;Data+Science+%26+ML+Enthusiast+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Building+Real-World+Solutions+%F0%9F%8C%9F" alt="Typing SVG" />
@@ -291,24 +288,6 @@ Tailwind      ████████████████░░░░   80%
 <div align="center">
 
 <img width="100%" src="https://raw.githubusercontent.com/yhaddar/yhaddar/main/contact-card.svg" alt="Contact Card" />
-
-<br/><br/>
-
-<a href="https://yhaddar.com">
-  <img src="https://img.shields.io/badge/Portfolio-yhaddar.com-7c3aed?style=for-the-badge&logo=firefox&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:youssefhaddar9@gmail.com">
-  <img src="https://img.shields.io/badge/Email-youssefhaddar9%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/youssef-haddar-b27766220/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<img src="https://profile-counter.glitch.me/yhaddar/count.svg" alt="Visitor Count" />
 
 <br/><br/>
 
