@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 60" preserveAspectRatio="none" width="100%" height="60">
+  <defs>
+    <linearGradient id="wg1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0f0c29"/>
+      <stop offset="50%" stop-color="#302b63"/>
+      <stop offset="100%" stop-color="#24243e"/>
+    </linearGradient>
+    <style>
+      .w1 { animation: wave1 4s ease-in-out infinite alternate; }
+      .w2 { animation: wave2 5s ease-in-out infinite alternate; }
+      .w3 { animation: wave3 6s ease-in-out infinite alternate; }
+      @keyframes wave1 { 0%{d:path("M0,30 C200,55 400,5 600,30 C800,55 1000,5 1200,30 L1200,60 L0,60 Z")} 100%{d:path("M0,30 C200,5 400,55 600,30 C800,5 1000,55 1200,30 L1200,60 L0,60 Z")} }
+      @keyframes wave2 { 0%{d:path("M0,40 C150,20 350,60 600,40 C850,20 1050,60 1200,40 L1200,60 L0,60 Z")} 100%{d:path("M0,40 C150,60 350,20 600,40 C850,60 1050,20 1200,40 L1200,60 L0,60 Z")} }
+      @keyframes wave3 { 0%{d:path("M0,50 C300,30 600,60 900,40 C1050,30 1150,50 1200,45 L1200,60 L0,60 Z")} 100%{d:path("M0,50 C300,60 600,30 900,50 C1050,60 1150,40 1200,55 L1200,60 L0,60 Z")} }
+    </style>
+  </defs>
+  <rect width="1200" height="60" fill="#0d1117"/>
+  <path class="w1" d="M0,30 C200,55 400,5 600,30 C800,55 1000,5 1200,30 L1200,60 L0,60 Z" fill="url(#wg1)" opacity="0.6"/>
+  <path class="w2" d="M0,40 C150,20 350,60 600,40 C850,20 1050,60 1200,40 L1200,60 L0,60 Z" fill="#302b63" opacity="0.5"/>
+  <path class="w3" d="M0,50 C300,30 600,60 900,40 C1050,30 1150,50 1200,45 L1200,60 L0,60 Z" fill="#a78bfa" opacity="0.3"/>
+</svg>

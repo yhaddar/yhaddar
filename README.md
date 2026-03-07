@@ -1,18 +1,17 @@
 <div align="center">
 
 <!-- Animated Constellation Banner -->
-<img width="100%" src="./banner.svg" alt="HADDAR Youssef Banner" />
+<img width="100%" src="https://raw.githubusercontent.com/yhaddar/yhaddar/main/banner.svg" alt="HADDAR Youssef Banner" />
 
 <!-- Typing Animation -->
 <a href="https://yhaddar.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&lines=Spring+Boot+%26+Flutter+Developer+%F0%9F%9A%80;Data+Science+%26+ML+Enthusiast+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Building+Real-World+Solutions+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Spring+Boot+%26+Flutter+Developer+%F0%9F%9A%80;Data+Science+%26+ML+Enthusiast+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Building+Real-World+Solutions+%F0%9F%8C%9F" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Profile Views & Social Badges -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=yhaddar&label=Profile+Views&color=7c3aed&style=for-the-badge" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=yhaddar&label=Profile+Views&color=7c3aed&style=for-the-badge" />
   <a href="https://www.linkedin.com/in/youssef-haddar-b27766220/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -27,66 +26,124 @@
   </a>
 </p>
 
+<!-- Spotify -->
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31o46gaxro65k64rcztxmgfh5b6u&redirect=true">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31o46gaxro65k64rcztxmgfh5b6u&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color=a78bfa&bar_color_cover=false" />
+</a>
+
 </div>
 
-<div style="display: flex; justify-content: center">
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31o46gaxro65k64rcztxmgfh5b6u&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31o46gaxro65k64rcztxmgfh5b6u&redirect=true)<!-- About Me Section -->
-
-</div>
+<!-- WAVE -->
+<img width="100%" src="https://raw.githubusercontent.com/yhaddar/yhaddar/main/wave1.svg" />
 
 ### 👨‍💻 About Me
 
-<div style="display: flex; flex-direction: row-reverse; justify-content: space-evenly; align-items: center;">
-<img align="center" alt="Coding" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<table>
+<tr>
+<td valign="center" width="55%">
 
 ```yaml
-name: HADDAR Youssef
+name    : HADDAR Youssef
 location: Salé, Morocco 🇲🇦
-role: Backend & Mobile Developer
-focus: Spring Boot · Flutter · Data Science · ML
+role    : Backend & Mobile Developer
+focus   : Spring Boot · Flutter · Data Science · ML
 
 education:
-  - Licence Big Data & BI @ Faculté Polydisciplinaire (2025–present)
-  - Full Stack Dev @ CMC Rabat (2023–2025) 🎓 Graduated with Honors
+  - Licence Big Data & BI (2025–now)
+  - Full Stack Dev @ CMC Rabat 🎓 Honors
 
-currently:
-  - Building real estate & recipe apps
-  - Exploring Big Data with Spark & Hadoop
-  - Working on Sales Analytics & AI prediction
+building_now:
+  - OHO Real Estate (Flutter + Supabase + AI)
+  - Recipe App (Spring Boot + Docker + AWS)
+  - Sales Analytics & Prediction (Spark + ML)
 
-interests:
-  - ⚽ Football
-  - 📚 Reading
-  - 🎌 Anime
-  - 🧠 Machine Learning
+hobbies: [⚽ Football, 📚 Reading, 🎌 Anime]
 ```
 
-</div>
+</td>
+<td valign="center" width="45%">
 
-<br clear="right"/>
+<img width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
----
+</td>
+</tr>
+</table>
 
-<!-- 3D Contribution Snake -->
+<!-- WAVE -->
+<img width="100%" src="https://raw.githubusercontent.com/yhaddar/yhaddar/main/wave2.svg" />
+
+<!-- WAVE -->
+<img width="100%" src="https://raw.githubusercontent.com/yhaddar/yhaddar/main/wave2.svg" />
+
+## 🐍 Contribution Snake
+
 <div align="center">
-
-### 🐍 My Contribution Snake
-
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://github.com/yhaddar/yhaddar/blob/output/github-contribution-grid-snake-dark.svg" />
+    srcset="https://raw.githubusercontent.com/yhaddar/yhaddar/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)"
-    srcset="https://github.com/yhaddar/yhaddar/blob/output/github-contribution-grid-snake.svg" />
+    srcset="https://raw.githubusercontent.com/yhaddar/yhaddar/output/github-contribution-grid-snake.svg" />
   <img alt="Snake animation"
-    src="https://raw.githubusercontent.com/yhaddar/output/github-contribution-grid-snake.svg" />
+    src="https://raw.githubusercontent.com/yhaddar/yhaddar/output/github-contribution-grid-snake.svg" />
 </picture>
+</div>
+
+<!-- WAVE -->
+<img width="100%" src="https://raw.githubusercontent.com/yhaddar/yhaddar/main/wave1.svg" />
+
+## 🎯 Skill Level
+
+<div align="center">
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**⚙️ Backend**
+```text
+Spring Boot   ████████████████░░░░   80%
+Laravel       ███████████████░░░░░   75%
+FastAPI       ████████████░░░░░░░░   60%
+Symfony       ███████████░░░░░░░░░   55%
+Node.js       ████████████░░░░░░░░   60%
+```
+
+**📱 Mobile**
+```text
+Flutter       ████████████████████   90%
+Dart          ████████████████████   90%
+Firebase      ███████████████░░░░░   75%
+```
+
+</td>
+<td width="50%" valign="top">
+
+**🤖 Data Science & ML**
+```text
+Python        ████████████████░░░░   80%
+Scikit-learn  ██████████████░░░░░░   70%
+Pandas        ██████████████░░░░░░   70%
+Apache Spark  ████████████░░░░░░░░   60%
+Tableau       ███████████░░░░░░░░░   55%
+```
+
+**🌐 Frontend**
+```text
+React         ██████████████░░░░░░   70%
+Next.js       █████████████░░░░░░░   65%
+TypeScript    ██████████████░░░░░░   70%
+Tailwind      ████████████████░░░░   80%
+```
+
+</td>
+</tr>
+</table>
 
 </div>
 
----
+<!-- WAVE -->
+<img width="100%" src="https://raw.githubusercontent.com/yhaddar/yhaddar/main/wave2.svg" />
 
-<!-- Tech Stack -->
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
@@ -123,12 +180,12 @@ interests:
 ### 🤖 Data Science & ML
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
   <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" />
-  <img src="https://img.shields.io/badge/PowerBI-E97627?style=for-the-badge&logo=powerBi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scala-F80000?style=for-the-badge&logo=scala&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" />
 </p>
 
 ### 🗄️ Databases
@@ -151,49 +208,48 @@ interests:
 
 </div>
 
----
+<!-- WAVE -->
+<img width="100%" src="https://raw.githubusercontent.com/yhaddar/yhaddar/main/wave1.svg" />
 
-<!-- GitHub Stats -->
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=dark&fontFamily=&preferLogin=false">    <img  alt="yhaddar's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/yhaddar?cardType=level&theme=dark&fontFamily=&preferLogin=false" />  </a>
+
+<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=dark">
+  <img alt="yhaddar's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/yhaddar?cardType=level&theme=dark" />
+</a>
 <img src="https://streak-stats.demolab.com?user=yhaddar&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
-</div>
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yhaddar&theme=tokyonight" />
+
+<br/>
+
+<img height="180" src="https://github-readme-stats-1k9z1czu7-yhaddars-projects.vercel.app/api?username=yhaddar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&count_private=true" />
+<img height="180" src="https://github-readme-stats-1k9z1czu7-yhaddars-projects.vercel.app/api/top-langs/?username=yhaddar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&langs_count=10" />
+
 </div>
 
-<!-- Projects Showcase -->
+<!-- WAVE -->
+<img width="100%" src="https://raw.githubusercontent.com/yhaddar/yhaddar/main/wave2.svg" />
+
 ## 🏗️ Projects Showcase
 
 | 🚀 Project | 🛠️ Stack | 📝 Description |
 |---|---|---|
-| 🏠 **OHO Real State** | Flutter · Supabase · AI Chatbot | Real estate mobile app with listing, booking & geolocation |
-| 📊 **Sale Analytics & Prediction** | Spark · Python · ML · Hadoop · Tableau | End-to-end data pipeline with AI sales forecasting |
-| 😤 **Stress Quality** | Flutter · Scikit-learn · Python | ML-powered mobile app to analyze & predict stress levels |
-| 📚 **Library Management** | Spring Boot · Next.js · TypeScript · Tailwind | Full-featured library borrowing & reservation system |
-| 🌾 **Agriculture Platform** | Laravel · React · Figma · AWS S3 · Stripe | E-commerce platform helping farmers sell their products |
-| 🍔 **Food Delivery App** | Flutter · Firebase | Intuitive meal ordering with real-time tracking |
+| 🏠 **OHO Real Estate** | Flutter · Supabase · AI | Real estate app with listing, booking & geolocation |
+| 📊 **Sale Analytics & Prediction** | Spark · Python · ML · Tableau | End-to-end data pipeline with AI sales forecasting |
+| 😤 **Stress Quality** | Flutter · Scikit-learn · Python | ML mobile app to analyze & predict stress levels |
+| 📚 **Library Management** | Spring Boot · Next.js · TypeScript | Full library borrowing & reservation system |
+| 🌾 **Agriculture Platform** | Laravel · React · AWS S3 · Stripe | E-commerce platform for farmers |
+| 🍔 **Food Delivery** | Flutter · Firebase | Meal ordering with real-time tracking |
 | 🖼️ **Photos (Pinterest Clone)** | Laravel · React · SCSS | Image sharing & management platform |
-| 📦 **Stock Management** | Node.js · Express · Next.js · MongoDB | Full inventory, sales & workforce management system |
-| 🛋️ **Furniture Store** | Java · XML · Express.js | Elegant furniture e-commerce mobile experience |
-| 🔮 **Diabetes Prediction** | Python · ML · Scikit-learn | Supervised ML model for diabetes risk prediction |
-| 🛒 **E-commerce (Vulcapro)** | Symfony · PHP · Tailwind · MySQL | Industrial supplies conveyor management platform |
-| 📊 **Product Classification** | Python · ML · Pandas | ML classifier for product profitability optimization |
+| 📦 **Stock Management** | Node.js · Express · Next.js · MongoDB | Inventory, sales & workforce management |
+| 🛋️ **Furniture Store** | Java · XML · Express.js | Furniture e-commerce mobile app |
+| 🔮 **Diabetes Prediction** | Python · ML · Scikit-learn | Supervised ML model for diabetes prediction |
+| 🛒 **Vulcapro E-commerce** | Symfony · PHP · Tailwind | Industrial supplies management platform |
+| 📊 **Product Classification** | Python · ML · Pandas | ML classifier for product profitability |
 
----
+<!-- WAVE -->
+<img width="100%" src="https://raw.githubusercontent.com/yhaddar/yhaddar/main/wave1.svg" />
 
-<!-- Activity Graph -->
-## 📈 Contribution Activity
-
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=yhaddar&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" />
-</div>
-
----
-
-<!-- Achievements -->
 ## 🏆 Achievements
 
 <div align="center">
@@ -204,54 +260,57 @@ interests:
 ![Projects](https://img.shields.io/badge/Projects-20+-f59e0b?style=for-the-badge&logo=rocket&logoColor=white)
 ![ML Models](https://img.shields.io/badge/ML_Models-5+-f472b6?style=for-the-badge&logo=python&logoColor=white)
 ![Mobile Apps](https://img.shields.io/badge/Mobile_Apps-4+-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Backend](https://img.shields.io/badge/Backend_Project-10+-F80000?style=for-the-badge&logo=flutter&logoColor=white)
+![Backend](https://img.shields.io/badge/Backend_Projects-10+-F80000?style=for-the-badge&logo=spring&logoColor=white)
 
 </div>
 
----
+<!-- WAVE -->
+<img width="100%" src="https://raw.githubusercontent.com/yhaddar/yhaddar/main/wave2.svg" />
 
-<!-- Experience Timeline -->
 ## 📅 My Journey
 
 ```
-2020 ───▶ Baccalaureate (SVT) @ Lycée Jaber Bno Hayan, Salé
-2021 ───▶ Faculty of Sciences (Biology) @ Rabat + 🔥 Started self-learning CS
-2022 ───▶ Faculty of Economics @ Salé
+2020 ───▶ 🎓 Baccalaureate SVT — Lycée Jaber Bno Hayan, Salé
+2021 ───▶ Faculty of Sciences (Biology) + 🔥 Started self-learning CS
+2022 ───▶ Faculty of Economics — Salé
 2023 ───▶ CMC Rabat — Full Stack Digital Development (Bac+2)
-           └── Flutter, Spring Boot, Laravel, React, Data Science...
-2025 ───▶ 🎓 Graduated with Honors + Internship @ Proxisoft (Symfony · Twig)
-           └── Now pursuing Licence Big Data & BI @ Faculté Polydisciplinaire
-2025+ ──▶ Freelance projects in Web, Mobile & AI 🚀
+           └── Flutter · Spring Boot · Laravel · React · Data Science
+2025 ───▶ 🏆 Graduated with Honors
+           └── Internship @ Proxisoft — E-commerce (Symfony & Twig)
+2025+ ──▶ Licence Big Data & BI — Faculté Polydisciplinaire (ongoing)
+           └── Freelance: Web · Mobile · AI projects 🚀
 ```
 
----
+<!-- WAVE -->
+<img width="100%" src="https://raw.githubusercontent.com/yhaddar/yhaddar/main/wave1.svg" />
 
-<!-- Languages -->
 ## 🌍 Languages
 
 <div align="center">
 
-![Arabic](https://img.shields.io/badge/Arabic-Native-green?style=for-the-badge)
-![French](https://img.shields.io/badge/French-Fluent-blue?style=for-the-badge)
-![English](https://img.shields.io/badge/English-Professional-orange?style=for-the-badge)
+![Arabic](https://img.shields.io/badge/Arabic-Native-2ECC71?style=for-the-badge)
+![French](https://img.shields.io/badge/French-Fluent-3498DB?style=for-the-badge)
+![English](https://img.shields.io/badge/English-Professional-E67E22?style=for-the-badge)
 
 </div>
 
----
+<!-- WAVE -->
+<img width="100%" src="https://raw.githubusercontent.com/yhaddar/yhaddar/main/wave2.svg" />
 
-<!-- Contact Section -->
 ## 📬 Let's Connect
 
 <div align="center">
 
 <a href="https://yhaddar.com">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-yhaddar.com-7c3aed?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Portfolio-yhaddar.com-7c3aed?style=for-the-badge&logo=firefox&logoColor=white" />
 </a>
+&nbsp;
 <a href="mailto:youssefhaddar9@gmail.com">
-  <img src="https://img.shields.io/badge/📧_Email-youssefhaddar9@gmail.com-D14836?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Email-youssefhaddar9%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+&nbsp;
 <a href="https://www.linkedin.com/in/youssef-haddar-b27766220/">
-  <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <br/><br/>
@@ -261,9 +320,5 @@ interests:
 
 </div>
 
----
-
-<!-- Footer Wave -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
-</div>
+<!-- FOOTER WAVE -->
+<img width="100%" src="https://raw.githubusercontent.com/yhaddar/yhaddar/main/wave1.svg" />
