@@ -34,7 +34,7 @@
 <!-- About Me Section -->
 ### 👨‍💻 About Me
 
-<div style="display: flex; flex-direction: row-reverse; justify-content: space-evenly">
+<div style="display: flex; flex-direction: column; justify-content: center">
 <img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ```yaml
