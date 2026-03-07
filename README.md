@@ -154,37 +154,12 @@ interests:
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yhaddar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yhaddar&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhaddar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&langs_count=10" />
-
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=dark&fontFamily=&preferLogin=false">    <img  alt="yhaddar's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/yhaddar?cardType=level&theme=dark&fontFamily=&preferLogin=false" />  </a>
+<img src="https://streak-stats.demolab.com?user=yhaddar&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
 </div>
-
----
-
-<!-- Featured Projects -->
-## 🚀 Featured Projects
-
 <div align="center">
-
-<a href="https://github.com/yhaddar/recipes">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=yhaddar&repo=recipes&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" />
-</a>
-<a href="https://github.com/yhaddar/sale-analytics-prediction">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=yhaddar&repo=sale-analytics-prediction&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" />
-</a>
-<a href="https://github.com/yhaddar/food_delivery">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=yhaddar&repo=food_delivery&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" />
-</a>
-<a href="https://github.com/yhaddar/stress_quality">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=yhaddar&repo=stress_quality&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" />
-</a>
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yhaddar&theme=tokyonight" />
 </div>
-
----
 
 <!-- Projects Showcase -->
 ## 🏗️ Projects Showcase
@@ -215,11 +190,19 @@ interests:
 
 ---
 
-<!-- Trophies -->
-## 🏆 GitHub Trophies
+<!-- Achievements -->
+## 🏆 Achievements
 
 <div align="center">
-  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=yhaddar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+
+![Repos](https://img.shields.io/badge/Public_Repos-36-a78bfa?style=for-the-badge&logo=github&logoColor=white)
+![Followers](https://img.shields.io/badge/Followers-46-7c3aed?style=for-the-badge&logo=github&logoColor=white)
+![Experience](https://img.shields.io/badge/Experience-4+_Years-34d399?style=for-the-badge&logo=codepen&logoColor=white)
+![Projects](https://img.shields.io/badge/Projects-20+-f59e0b?style=for-the-badge&logo=rocket&logoColor=white)
+![ML Models](https://img.shields.io/badge/ML_Models-5+-f472b6?style=for-the-badge&logo=python&logoColor=white)
+![Mobile Apps](https://img.shields.io/badge/Mobile_Apps-4+-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Backend](https://img.shields.io/badge/Backend_Project-10+-F80000?style=for-the-badge&logo=flutter&logoColor=white)
+
 </div>
 
 ---
