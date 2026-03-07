@@ -1,0 +1,177 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" width="1200" height="280">
+  <defs>
+    <style>
+      @keyframes float0  { 0%{transform:translate(0,0)} 50%{transform:translate(18px,-22px)} 100%{transform:translate(0,0)} }
+      @keyframes float1  { 0%{transform:translate(0,0)} 50%{transform:translate(-20px,15px)} 100%{transform:translate(0,0)} }
+      @keyframes float2  { 0%{transform:translate(0,0)} 50%{transform:translate(14px,20px)} 100%{transform:translate(0,0)} }
+      @keyframes float3  { 0%{transform:translate(0,0)} 50%{transform:translate(-16px,-18px)} 100%{transform:translate(0,0)} }
+      @keyframes float4  { 0%{transform:translate(0,0)} 50%{transform:translate(22px,12px)} 100%{transform:translate(0,0)} }
+      @keyframes float5  { 0%{transform:translate(0,0)} 50%{transform:translate(-12px,20px)} 100%{transform:translate(0,0)} }
+      @keyframes float6  { 0%{transform:translate(0,0)} 50%{transform:translate(16px,-14px)} 100%{transform:translate(0,0)} }
+      @keyframes float7  { 0%{transform:translate(0,0)} 50%{transform:translate(-20px,-10px)} 100%{transform:translate(0,0)} }
+      @keyframes float8  { 0%{transform:translate(0,0)} 50%{transform:translate(10px,22px)} 100%{transform:translate(0,0)} }
+      @keyframes float9  { 0%{transform:translate(0,0)} 50%{transform:translate(-18px,16px)} 100%{transform:translate(0,0)} }
+      @keyframes float10 { 0%{transform:translate(0,0)} 50%{transform:translate(20px,-18px)} 100%{transform:translate(0,0)} }
+      @keyframes float11 { 0%{transform:translate(0,0)} 50%{transform:translate(-14px,12px)} 100%{transform:translate(0,0)} }
+      @keyframes float12 { 0%{transform:translate(0,0)} 50%{transform:translate(12px,-20px)} 100%{transform:translate(0,0)} }
+      @keyframes float13 { 0%{transform:translate(0,0)} 50%{transform:translate(-22px,8px)} 100%{transform:translate(0,0)} }
+      @keyframes float14 { 0%{transform:translate(0,0)} 50%{transform:translate(8px,18px)} 100%{transform:translate(0,0)} }
+      @keyframes float15 { 0%{transform:translate(0,0)} 50%{transform:translate(-10px,-22px)} 100%{transform:translate(0,0)} }
+      @keyframes float16 { 0%{transform:translate(0,0)} 50%{transform:translate(24px,10px)} 100%{transform:translate(0,0)} }
+      @keyframes float17 { 0%{transform:translate(0,0)} 50%{transform:translate(-18px,-14px)} 100%{transform:translate(0,0)} }
+      @keyframes float18 { 0%{transform:translate(0,0)} 50%{transform:translate(14px,24px)} 100%{transform:translate(0,0)} }
+      @keyframes float19 { 0%{transform:translate(0,0)} 50%{transform:translate(-24px,18px)} 100%{transform:translate(0,0)} }
+      @keyframes textIn  { 0%{opacity:0} 40%{opacity:0} 100%{opacity:1} }
+      @keyframes pulse   { 0%,100%{opacity:1} 50%{opacity:0.5} }
+
+      .p0  { animation: float0  7s ease-in-out infinite; }
+      .p1  { animation: float1  9s ease-in-out infinite; }
+      .p2  { animation: float2  6s ease-in-out infinite; }
+      .p3  { animation: float3  8s ease-in-out infinite; }
+      .p4  { animation: float4  11s ease-in-out infinite; }
+      .p5  { animation: float5  7.5s ease-in-out infinite; }
+      .p6  { animation: float6  10s ease-in-out infinite; }
+      .p7  { animation: float7  8.5s ease-in-out infinite; }
+      .p8  { animation: float8  6.5s ease-in-out infinite; }
+      .p9  { animation: float9  9.5s ease-in-out infinite; }
+      .p10 { animation: float10 7s ease-in-out infinite; }
+      .p11 { animation: float11 8s ease-in-out infinite; }
+      .p12 { animation: float12 11s ease-in-out infinite; }
+      .p13 { animation: float13 6.5s ease-in-out infinite; }
+      .p14 { animation: float14 9s ease-in-out infinite; }
+      .p15 { animation: float15 7.5s ease-in-out infinite; }
+      .p16 { animation: float16 8s ease-in-out infinite; }
+      .p17 { animation: float17 10s ease-in-out infinite; }
+      .p18 { animation: float18 6s ease-in-out infinite; }
+      .p19 { animation: float19 9s ease-in-out infinite; }
+      .title { animation: textIn 2.5s ease forwards; }
+      .subtitle { animation: textIn 3.5s ease forwards; }
+    </style>
+    <radialGradient id="glow-purple" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#a78bfa" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#a78bfa" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow-blue" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#60a5fa" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#60a5fa" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow-green" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#34d399" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#34d399" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow-yellow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#fbbf24" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#fbbf24" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow-pink" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#f472b6" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#f472b6" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="blur2">
+      <feGaussianBlur stdDeviation="2"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="280" fill="#0d1117"/>
+
+  <!-- Subtle center glow -->
+  <ellipse cx="600" cy="140" rx="350" ry="120" fill="#1a1040" opacity="0.4"/>
+
+  <!-- ===================== CONSTELLATION LINES ===================== -->
+  <!-- These connect dot positions (approximated for visual grouping) -->
+
+  <!-- Left cluster -->
+  <line x1="60" y1="80"  x2="130" y2="110" stroke="#a78bfa" stroke-width="0.8" opacity="0.5"/>
+  <line x1="130" y1="110" x2="100" y2="170" stroke="#a78bfa" stroke-width="0.8" opacity="0.5"/>
+  <line x1="100" y1="170" x2="60"  y2="200" stroke="#60a5fa" stroke-width="0.8" opacity="0.4"/>
+  <line x1="130" y1="110" x2="180" y2="60"  stroke="#a78bfa" stroke-width="0.8" opacity="0.4"/>
+  <line x1="180" y1="60"  x2="240" y2="90"  stroke="#60a5fa" stroke-width="0.8" opacity="0.5"/>
+  <line x1="240" y1="90"  x2="200" y2="150" stroke="#a78bfa" stroke-width="0.8" opacity="0.4"/>
+  <line x1="200" y1="150" x2="130" y2="110" stroke="#34d399" stroke-width="0.8" opacity="0.3"/>
+
+  <!-- Right cluster -->
+  <line x1="950"  y1="70"  x2="1010" y2="110" stroke="#a78bfa" stroke-width="0.8" opacity="0.5"/>
+  <line x1="1010" y1="110" x2="1080" y2="80"  stroke="#60a5fa" stroke-width="0.8" opacity="0.5"/>
+  <line x1="1080" y1="80"  x2="1130" y2="130" stroke="#a78bfa" stroke-width="0.8" opacity="0.4"/>
+  <line x1="1010" y1="110" x2="1000" y2="180" stroke="#34d399" stroke-width="0.8" opacity="0.4"/>
+  <line x1="1000" y1="180" x2="1080" y2="210" stroke="#a78bfa" stroke-width="0.8" opacity="0.4"/>
+  <line x1="1080" y1="210" x2="1140" y2="190" stroke="#fbbf24" stroke-width="0.8" opacity="0.4"/>
+  <line x1="950"  y1="200" x2="1000" y2="180" stroke="#60a5fa" stroke-width="0.8" opacity="0.4"/>
+
+  <!-- Top scattered -->
+  <line x1="300" y1="30"  x2="370" y2="55"  stroke="#a78bfa" stroke-width="0.8" opacity="0.35"/>
+  <line x1="370" y1="55"  x2="430" y2="25"  stroke="#60a5fa" stroke-width="0.8" opacity="0.35"/>
+  <line x1="780" y1="40"  x2="850" y2="25"  stroke="#a78bfa" stroke-width="0.8" opacity="0.35"/>
+  <line x1="850" y1="25"  x2="900" y2="55"  stroke="#34d399" stroke-width="0.8" opacity="0.35"/>
+
+  <!-- Bottom scattered -->
+  <line x1="280" y1="230" x2="350" y2="255" stroke="#a78bfa" stroke-width="0.8" opacity="0.35"/>
+  <line x1="350" y1="255" x2="420" y2="240" stroke="#60a5fa" stroke-width="0.8" opacity="0.35"/>
+  <line x1="800" y1="240" x2="870" y2="260" stroke="#a78bfa" stroke-width="0.8" opacity="0.35"/>
+  <line x1="870" y1="260" x2="920" y2="230" stroke="#fbbf24" stroke-width="0.8" opacity="0.35"/>
+
+  <!-- ===================== ANIMATED DOTS ===================== -->
+
+  <!-- Left cluster dots -->
+  <g class="p0">  <circle cx="60"  cy="80"  r="3" fill="#34d399"/> <circle cx="60"  cy="80"  r="6" fill="#34d399" filter="url(#blur2)" opacity="0.5"/> </g>
+  <g class="p1">  <circle cx="130" cy="110" r="2.5" fill="#a78bfa"/> <circle cx="130" cy="110" r="6" fill="#a78bfa" filter="url(#blur2)" opacity="0.5"/> </g>
+  <g class="p2">  <circle cx="100" cy="170" r="2" fill="#60a5fa"/> <circle cx="100" cy="170" r="5" fill="#60a5fa" filter="url(#blur2)" opacity="0.5"/> </g>
+  <g class="p3">  <circle cx="60"  cy="200" r="2.5" fill="#fbbf24"/> <circle cx="60"  cy="200" r="6" fill="#fbbf24" filter="url(#blur2)" opacity="0.5"/> </g>
+  <g class="p4">  <circle cx="180" cy="60"  r="2" fill="#f472b6"/> <circle cx="180" cy="60"  r="5" fill="#f472b6" filter="url(#blur2)" opacity="0.5"/> </g>
+  <g class="p5">  <circle cx="240" cy="90"  r="3" fill="#a78bfa"/> <circle cx="240" cy="90"  r="7" fill="#a78bfa" filter="url(#blur2)" opacity="0.5"/> </g>
+  <g class="p6">  <circle cx="200" cy="150" r="2" fill="#34d399"/> <circle cx="200" cy="150" r="5" fill="#34d399" filter="url(#blur2)" opacity="0.5"/> </g>
+
+  <!-- Top dots -->
+  <g class="p7">  <circle cx="300" cy="30"  r="2" fill="#60a5fa"/> <circle cx="300" cy="30"  r="5" fill="#60a5fa" filter="url(#blur2)" opacity="0.5"/> </g>
+  <g class="p8">  <circle cx="370" cy="55"  r="2.5" fill="#a78bfa"/> <circle cx="370" cy="55"  r="6" fill="#a78bfa" filter="url(#blur2)" opacity="0.5"/> </g>
+  <g class="p9">  <circle cx="430" cy="25"  r="2" fill="#fbbf24"/> <circle cx="430" cy="25"  r="5" fill="#fbbf24" filter="url(#blur2)" opacity="0.5"/> </g>
+  <g class="p10"> <circle cx="780" cy="40"  r="2" fill="#34d399"/> <circle cx="780" cy="40"  r="5" fill="#34d399" filter="url(#blur2)" opacity="0.5"/> </g>
+  <g class="p11"> <circle cx="850" cy="25"  r="2.5" fill="#f472b6"/> <circle cx="850" cy="25"  r="6" fill="#f472b6" filter="url(#blur2)" opacity="0.5"/> </g>
+  <g class="p12"> <circle cx="900" cy="55"  r="2" fill="#a78bfa"/> <circle cx="900" cy="55"  r="5" fill="#a78bfa" filter="url(#blur2)" opacity="0.5"/> </g>
+
+  <!-- Right cluster dots -->
+  <g class="p13"> <circle cx="950"  cy="70"  r="3" fill="#60a5fa"/> <circle cx="950"  cy="70"  r="7" fill="#60a5fa" filter="url(#blur2)" opacity="0.5"/> </g>
+  <g class="p14"> <circle cx="1010" cy="110" r="2.5" fill="#a78bfa"/> <circle cx="1010" cy="110" r="6" fill="#a78bfa" filter="url(#blur2)" opacity="0.5"/> </g>
+  <g class="p15"> <circle cx="1080" cy="80"  r="2" fill="#34d399"/> <circle cx="1080" cy="80"  r="5" fill="#34d399" filter="url(#blur2)" opacity="0.5"/> </g>
+  <g class="p16"> <circle cx="1130" cy="130" r="2.5" fill="#fbbf24"/> <circle cx="1130" cy="130" r="6" fill="#fbbf24" filter="url(#blur2)" opacity="0.5"/> </g>
+  <g class="p17"> <circle cx="1000" cy="180" r="2" fill="#f472b6"/> <circle cx="1000" cy="180" r="5" fill="#f472b6" filter="url(#blur2)" opacity="0.5"/> </g>
+  <g class="p18"> <circle cx="1080" cy="210" r="3" fill="#a78bfa"/> <circle cx="1080" cy="210" r="7" fill="#a78bfa" filter="url(#blur2)" opacity="0.5"/> </g>
+  <g class="p19"> <circle cx="950"  cy="200" r="2" fill="#60a5fa"/> <circle cx="950"  cy="200" r="5" fill="#60a5fa" filter="url(#blur2)" opacity="0.5"/> </g>
+
+  <!-- Bottom dots -->
+  <g class="p0"> <circle cx="280" cy="230" r="2.5" fill="#fbbf24"/> </g>
+  <g class="p2"> <circle cx="350" cy="255" r="2" fill="#a78bfa"/> </g>
+  <g class="p4"> <circle cx="420" cy="240" r="2.5" fill="#34d399"/> </g>
+  <g class="p6"> <circle cx="800" cy="240" r="2" fill="#60a5fa"/> </g>
+  <g class="p8"> <circle cx="870" cy="260" r="2.5" fill="#a78bfa"/> </g>
+  <g class="p10"><circle cx="920" cy="230" r="2" fill="#f472b6"/> </g>
+
+  <!-- Extra scattered small dots -->
+  <g class="p3"> <circle cx="500" cy="20"  r="1.5" fill="#a78bfa" opacity="0.7"/> </g>
+  <g class="p5"> <circle cx="680" cy="15"  r="1.5" fill="#60a5fa" opacity="0.7"/> </g>
+  <g class="p7"> <circle cx="540" cy="260" r="1.5" fill="#34d399" opacity="0.7"/> </g>
+  <g class="p9"> <circle cx="700" cy="265" r="1.5" fill="#fbbf24" opacity="0.7"/> </g>
+  <g class="p11"><circle cx="150" cy="240" r="1.5" fill="#f472b6" opacity="0.7"/> </g>
+  <g class="p13"><circle cx="1150" cy="240" r="1.5" fill="#34d399" opacity="0.7"/> </g>
+
+  <!-- ===================== TEXT ===================== -->
+  <text class="title"
+    x="600" y="125"
+    font-family="'Segoe UI', Arial, sans-serif"
+    font-size="52"
+    font-weight="300"
+    fill="#ffffff"
+    text-anchor="middle"
+    letter-spacing="4">HADDAR Youssef</text>
+
+  <text class="subtitle"
+    x="600" y="170"
+    font-family="'Segoe UI', Arial, sans-serif"
+    font-size="18"
+    font-weight="300"
+    fill="#9ca3af"
+    text-anchor="middle"
+    letter-spacing="5">Backend &amp; Mobile Developer · Business Intelligence &amp; ML</text>
+
+</svg>
