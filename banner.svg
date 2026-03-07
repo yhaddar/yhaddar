@@ -76,7 +76,7 @@
   <rect width="1200" height="280" fill="#0d1117"/>
 
   <!-- Subtle center glow -->
-  <ellipse cx="600" cy="140" rx="350" ry="120" fill="#1a1040" opacity="0.4"/>
+<!--  <ellipse cx="600" cy="140" rx="350" ry="120" fill="#1a1040" opacity="0.4"/>-->
 
   <!-- ===================== CONSTELLATION LINES ===================== -->
   <!-- These connect dot positions (approximated for visual grouping) -->

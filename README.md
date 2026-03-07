@@ -71,9 +71,12 @@ interests:
 ### 🐍 My Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yhaddar/yhaddar/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yhaddar/yhaddar/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yhaddar/yhaddar/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/yhaddar/yhaddar/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/yhaddar/yhaddar/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation"
+    src="https://raw.githubusercontent.com/yhaddar/yhaddar/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
@@ -121,7 +124,8 @@ interests:
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
   <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" />
-  <img src="https://img.shields.io/badge/PowerBI-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-E97627?style=for-the-badge&logo=powerBi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scala-F80000?style=for-the-badge&logo=scala&logoColor=white" />
 </p>
 
 ### 🗄️ Databases
