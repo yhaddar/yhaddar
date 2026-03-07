@@ -295,6 +295,3 @@ Tailwind      ████████████████░░░░   80%
 > — Youssef Haddar
 
 </div>
-
-<!-- FOOTER WAVE -->
-<img width="100%" src="https://raw.githubusercontent.com/yhaddar/yhaddar/main/wave2.svg" />
