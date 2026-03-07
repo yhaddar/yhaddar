@@ -29,13 +29,16 @@
 
 </div>
 
----
+<div style="display: flex; justify-content: center">
 
-<!-- About Me Section -->
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31o46gaxro65k64rcztxmgfh5b6u&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31o46gaxro65k64rcztxmgfh5b6u&redirect=true)<!-- About Me Section -->
+
+</div>
+
 ### 👨‍💻 About Me
 
-<div style="display: flex; flex-direction: column; justify-content: center">
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<div style="display: flex; flex-direction: row-reverse; justify-content: space-evenly; align-items: center;">
+<img align="center" alt="Coding" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ```yaml
 name: HADDAR Youssef
