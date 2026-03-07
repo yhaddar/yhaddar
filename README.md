@@ -3,6 +3,9 @@
 <!-- Animated Constellation Banner -->
 <img width="100%" src="https://raw.githubusercontent.com/yhaddar/yhaddar/main/banner.svg" alt="HADDAR Youssef Banner" />
 
+<!-- Animated Skills Text -->
+<img width="100%" src="https://raw.githubusercontent.com/yhaddar/yhaddar/main/animated-text.svg" alt="Skills" />
+
 <!-- Typing Animation -->
 <a href="https://yhaddar.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Spring+Boot+%26+Flutter+Developer+%F0%9F%9A%80;Data+Science+%26+ML+Enthusiast+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Building+Real-World+Solutions+%F0%9F%8C%9F" alt="Typing SVG" />
@@ -26,6 +29,12 @@
   </a>
 </p>
 
+## 😂 Random Dev Joke
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Dev Joke" />
+</div>
+
 <!-- Spotify -->
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31o46gaxro65k64rcztxmgfh5b6u&redirect=true">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31o46gaxro65k64rcztxmgfh5b6u&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color=a78bfa&bar_color_cover=false" />
@@ -33,8 +42,7 @@
 
 </div>
 
-<!-- WAVE -->
-<img width="100%" src="https://raw.githubusercontent.com/yhaddar/yhaddar/main/wave1.svg" />
+
 
 ### 👨‍💻 About Me
 
@@ -69,11 +77,7 @@ hobbies: [⚽ Football, 📚 Reading, 🎌 Anime]
 </tr>
 </table>
 
-<!-- WAVE -->
-<img width="100%" src="https://raw.githubusercontent.com/yhaddar/yhaddar/main/wave2.svg" />
 
-<!-- WAVE -->
-<img width="100%" src="https://raw.githubusercontent.com/yhaddar/yhaddar/main/wave2.svg" />
 
 ## 🐍 Contribution Snake
 
@@ -88,13 +92,11 @@ hobbies: [⚽ Football, 📚 Reading, 🎌 Anime]
 </picture>
 </div>
 
-<!-- WAVE -->
-<img width="100%" src="https://raw.githubusercontent.com/yhaddar/yhaddar/main/wave1.svg" />
+
 
 ## 🎯 Skill Level
 
 <div align="center">
-
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
@@ -102,17 +104,14 @@ hobbies: [⚽ Football, 📚 Reading, 🎌 Anime]
 **⚙️ Backend**
 ```text
 Spring Boot   ████████████████░░░░   80%
-Laravel       ███████████████░░░░░   75%
-FastAPI       ████████████░░░░░░░░   60%
-Symfony       ███████████░░░░░░░░░   55%
-Node.js       ████████████░░░░░░░░   60%
+Laravel       ████████████████████   85%
+Node.js       ████████████████░░░░   80%
 ```
 
 **📱 Mobile**
 ```text
-Flutter       ████████████████████   90%
-Dart          ████████████████████   90%
-Firebase      ███████████████░░░░░   75%
+Flutter       █████████████░░░░░░░   70%
+Supabase      ███████████████░░░░░   75%
 ```
 
 </td>
@@ -124,13 +123,13 @@ Python        ████████████████░░░░   80%
 Scikit-learn  ██████████████░░░░░░   70%
 Pandas        ██████████████░░░░░░   70%
 Apache Spark  ████████████░░░░░░░░   60%
-Tableau       ███████████░░░░░░░░░   55%
+PowerBI       ███████████░░░░░░░░░   55%
 ```
 
 **🌐 Frontend**
 ```text
 React         ██████████████░░░░░░   70%
-Next.js       █████████████░░░░░░░   65%
+Next.js       █████████████████░░░   85%
 TypeScript    ██████████████░░░░░░   70%
 Tailwind      ████████████████░░░░   80%
 ```
@@ -138,11 +137,7 @@ Tailwind      ████████████████░░░░   80%
 </td>
 </tr>
 </table>
-
 </div>
-
-<!-- WAVE -->
-<img width="100%" src="https://raw.githubusercontent.com/yhaddar/yhaddar/main/wave2.svg" />
 
 ## 🛠️ Tech Stack & Tools
 
@@ -208,8 +203,23 @@ Tailwind      ████████████████░░░░   80%
 
 </div>
 
-<!-- WAVE -->
-<img width="100%" src="https://raw.githubusercontent.com/yhaddar/yhaddar/main/wave1.svg" />
+
+
+## 🏆 Achievements
+
+<div align="center">
+
+![Repos](https://img.shields.io/badge/Public_Repos-36-a78bfa?style=for-the-badge&logo=github&logoColor=white)
+![Followers](https://img.shields.io/badge/Followers-46-7c3aed?style=for-the-badge&logo=github&logoColor=white)
+![Experience](https://img.shields.io/badge/Experience-4+_Years-34d399?style=for-the-badge&logo=codepen&logoColor=white)
+![Projects](https://img.shields.io/badge/Projects-20+-f59e0b?style=for-the-badge&logo=rocket&logoColor=white)
+![ML Models](https://img.shields.io/badge/ML_Models-5+-f472b6?style=for-the-badge&logo=python&logoColor=white)
+![Mobile Apps](https://img.shields.io/badge/Mobile_Apps-4+-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Backend](https://img.shields.io/badge/Backend_Projects-10+-F80000?style=for-the-badge&logo=spring&logoColor=white)
+
+</div>
+
+
 
 ## 📊 GitHub Stats
 
@@ -227,8 +237,7 @@ Tailwind      ████████████████░░░░   80%
 
 </div>
 
-<!-- WAVE -->
-<img width="100%" src="https://raw.githubusercontent.com/yhaddar/yhaddar/main/wave2.svg" />
+
 
 ## 🏗️ Projects Showcase
 
@@ -247,25 +256,7 @@ Tailwind      ████████████████░░░░   80%
 | 🛒 **Vulcapro E-commerce** | Symfony · PHP · Tailwind | Industrial supplies management platform |
 | 📊 **Product Classification** | Python · ML · Pandas | ML classifier for product profitability |
 
-<!-- WAVE -->
-<img width="100%" src="https://raw.githubusercontent.com/yhaddar/yhaddar/main/wave1.svg" />
 
-## 🏆 Achievements
-
-<div align="center">
-
-![Repos](https://img.shields.io/badge/Public_Repos-36-a78bfa?style=for-the-badge&logo=github&logoColor=white)
-![Followers](https://img.shields.io/badge/Followers-46-7c3aed?style=for-the-badge&logo=github&logoColor=white)
-![Experience](https://img.shields.io/badge/Experience-4+_Years-34d399?style=for-the-badge&logo=codepen&logoColor=white)
-![Projects](https://img.shields.io/badge/Projects-20+-f59e0b?style=for-the-badge&logo=rocket&logoColor=white)
-![ML Models](https://img.shields.io/badge/ML_Models-5+-f472b6?style=for-the-badge&logo=python&logoColor=white)
-![Mobile Apps](https://img.shields.io/badge/Mobile_Apps-4+-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Backend](https://img.shields.io/badge/Backend_Projects-10+-F80000?style=for-the-badge&logo=spring&logoColor=white)
-
-</div>
-
-<!-- WAVE -->
-<img width="100%" src="https://raw.githubusercontent.com/yhaddar/yhaddar/main/wave2.svg" />
 
 ## 📅 My Journey
 
@@ -281,8 +272,7 @@ Tailwind      ████████████████░░░░   80%
            └── Freelance: Web · Mobile · AI projects 🚀
 ```
 
-<!-- WAVE -->
-<img width="100%" src="https://raw.githubusercontent.com/yhaddar/yhaddar/main/wave1.svg" />
+
 
 ## 🌍 Languages
 
@@ -294,12 +284,15 @@ Tailwind      ████████████████░░░░   80%
 
 </div>
 
-<!-- WAVE -->
-<img width="100%" src="https://raw.githubusercontent.com/yhaddar/yhaddar/main/wave2.svg" />
+
 
 ## 📬 Let's Connect
 
 <div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/yhaddar/yhaddar/main/contact-card.svg" alt="Contact Card" />
+
+<br/><br/>
 
 <a href="https://yhaddar.com">
   <img src="https://img.shields.io/badge/Portfolio-yhaddar.com-7c3aed?style=for-the-badge&logo=firefox&logoColor=white" />
@@ -315,10 +308,14 @@ Tailwind      ████████████████░░░░   80%
 
 <br/><br/>
 
+<img src="https://profile-counter.glitch.me/yhaddar/count.svg" alt="Visitor Count" />
+
+<br/><br/>
+
 > *"I enjoy tackling challenging projects and delivering high-quality solutions."*
 > — Youssef Haddar
 
 </div>
 
 <!-- FOOTER WAVE -->
-<img width="100%" src="https://raw.githubusercontent.com/yhaddar/yhaddar/main/wave1.svg" />
+<img width="100%" src="https://raw.githubusercontent.com/yhaddar/yhaddar/main/wave2.svg" />
