@@ -54,7 +54,7 @@ role    : Backend & Mobile Developer
 focus   : Spring Boot · Flutter · Data Science · ML
 
 education:
-  - Licence Big Data & BI (2025–now)
+  - Licence Big Data & BI (2025–2026)
   - Full Stack Dev @ CMC Rabat 🎓 Honors
 
 building_now:
