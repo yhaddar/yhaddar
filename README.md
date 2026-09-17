@@ -33,9 +33,9 @@
 </div>
 
 <!-- Spotify -->
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31o46gaxro65k64rcztxmgfh5b6u&redirect=true">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31o46gaxro65k64rcztxmgfh5b6u&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color=a78bfa&bar_color_cover=false" />
-</a>
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31o46gaxro65k64rcztxmgfh5b6u&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31o46gaxro65k64rcztxmgfh5b6u&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false">
+  </a>
 
 </div>
 
