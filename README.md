@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://yhaddar.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Spring+Boot+%26+Flutter+Developer+%F0%9F%9A%80;Data+Science+%26+ML+Enthusiast+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Building+Real-World+Solutions+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=backend+%26+mobile+Developer++%F0%9F%92%BB;data+engineering+%26+ML+%F0%9F%A4%96;Building+Real-World+Solutions+%F0%9F%8C%9F" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -51,7 +51,7 @@
 name    : HADDAR Youssef
 location: Salé, Morocco 🇲🇦
 role    : Backend & Mobile Developer
-focus   : Spring Boot · Flutter · Data Science · ML
+focus   : Spring Boot · Flutter · Data Engineering · BI
 
 education:
   - Licence Big Data & BI (2025–2026)
@@ -114,7 +114,7 @@ Supabase      ███████████████░░░░░   75%
 </td>
 <td width="50%" valign="top">
 
-**🤖 Data Science & ML**
+**🤖 Data Engineering & BI**
 ```text
 Python        ████████████████░░░░   80%
 Scikit-learn  ██████████████░░░░░░   70%
@@ -169,7 +169,7 @@ Tailwind      ████████████████░░░░   80%
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
 </p>
 
-### 🤖 Data Science & ML
+### 🤖 Data Engineering & BI
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
